@@ -1,1 +1,1 @@
-print("Checking for new updates..")
+# This file will be used to update the game client.
