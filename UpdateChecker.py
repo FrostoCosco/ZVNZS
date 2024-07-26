@@ -20,7 +20,7 @@ import zipfile
 import os
 
 # URL of the file
-url = 'https://drive.google.com/uc?id=1KqLyaNZdOgjq0ZJ9-vFEl6I1clSkMfLS'
+url = 'https://drive.google.com/file/d/1KqLyaNZdOgjq0ZJ9-vFEl6I1clSkMfLS/view'
 
 # Output file path
 output = 'V3.zip'
